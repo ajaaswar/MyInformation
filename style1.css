@@ -9,7 +9,7 @@ body {
 	overflow: hidden;
 }
 #contact-section {
-	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)),url(flower.jpg);
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)),url('./images/flower.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 100%;

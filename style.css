@@ -100,7 +100,7 @@ body {
 		}
 	.wallpaper {
 		margin-left: 250px;
-		background: url(luxury.jpg) no-repeat;
+		background: url('./images/luxury.jpg') no-repeat;
 		background-position: center;
 		background-size: cover;
 		height: 100vh;
